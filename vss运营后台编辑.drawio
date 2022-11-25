@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T03:48:54.117Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="S9CiV7fs4f7-mcf-koms" version="20.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-25T03:50:51.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="QZsCb5-xWaHHUJBhwUcB" version="20.4.0" type="github" pages="3">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="945" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -541,7 +541,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CP2PSOMOpXgH1aE5Ie7D-1" value="vss账号系统" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="1">
+        <mxCell id="CP2PSOMOpXgH1aE5Ie7D-1" value="vss销量预测" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="1">
           <mxGeometry x="1770" y="110" width="860" height="680" as="geometry" />
         </mxCell>
         <mxCell id="CP2PSOMOpXgH1aE5Ie7D-2" value="供应商协同系统（前端）" style="swimlane;startSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="CP2PSOMOpXgH1aE5Ie7D-1">
