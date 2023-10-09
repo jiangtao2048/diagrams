@@ -1,9 +1,105 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T13:33:23.875Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" version="21.7.5" etag="8_GZpiXjd7OL1NVsq7gt" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-09T13:51:22.406Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="_UDd9qJDYl4h41OzwPP3" version="21.7.5" type="github">
   <diagram name="第 1 页" id="cve5uZJEfYkbzgbfO7Ss">
-    <mxGraphModel>
+    <mxGraphModel dx="1121" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="178" width="135" height="262" as="geometry" />
+        </mxCell>
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;1.0被窝&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="193" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;home1.5&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="248" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;home2.0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="298" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;home2.5&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="398" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="148" width="100" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;接单&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="163" width="65" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-8" value="备货" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="198" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-9" value="发货" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="225.5" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-10" value="拒单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="253" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;采购业务业务模式&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="138" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-12" value="流程节点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="118" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-13" value="拒单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="283" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-14" value="补充报价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="318" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-15" value="送达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="348" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-16" value="测量报价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="378" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-17" value="提交搬楼费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="408" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-18" value="预约送达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="438" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-19" value="选材报价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="468" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-20" value="提交安装" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="498" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-21" value="安装验收" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="528" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="200" as="sourcePoint" />
+            <mxPoint x="490" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="200" as="sourcePoint" />
+            <mxPoint x="490" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-26" value="配送类型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="138" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="203" width="130" height="212" as="geometry" />
+        </mxCell>
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;代销直送&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="218" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;代销配送&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="273" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;代销自提&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="323" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-31" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;库存品&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="373" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="T1wn4TQBAIpZ5xIzAZ-9-33" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;零售业务&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="348" width="100" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
