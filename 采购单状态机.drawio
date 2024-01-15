@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T03:56:29.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="s5OuP02zVK3fnyH5Jlmz" version="22.1.18" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-15T09:07:04.224Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="2_xryf1mJDSC7Nq3739g" version="22.1.18" type="github" pages="3">
   <diagram id="_4ErnGNw5acjuUnZQd9g" name="第 1 页">
     <mxGraphModel dx="1631" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -260,6 +260,9 @@
         <mxCell id="z70ZR2TUQVztYwn-_1U--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="z70ZR2TUQVztYwn-_1U--6" target="z70ZR2TUQVztYwn-_1U--7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="z70ZR2TUQVztYwn-_1U--40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="z70ZR2TUQVztYwn-_1U--6" target="z70ZR2TUQVztYwn-_1U--36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="z70ZR2TUQVztYwn-_1U--6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;一级状态：代签收&lt;br&gt;二级状态：&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="732.5" y="940" width="130" height="50" as="geometry" />
         </mxCell>
@@ -324,6 +327,45 @@
         </mxCell>
         <mxCell id="z70ZR2TUQVztYwn-_1U--34" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 16px;&quot;&gt;驳回&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="1230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z70ZR2TUQVztYwn-_1U--41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="z70ZR2TUQVztYwn-_1U--36" target="z70ZR2TUQVztYwn-_1U--37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z70ZR2TUQVztYwn-_1U--36" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;是否有搬楼费&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="751.25" y="1020" width="92.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="z70ZR2TUQVztYwn-_1U--43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z70ZR2TUQVztYwn-_1U--37" target="z70ZR2TUQVztYwn-_1U--39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z70ZR2TUQVztYwn-_1U--37" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;一级状态：待签收&lt;br&gt;二级状态：搬楼费待审核&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="703.75" y="1119" width="187.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z70ZR2TUQVztYwn-_1U--38" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;一级状态：待签收&lt;br&gt;二级状态：搬楼费已确认&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="703.75" y="1300" width="187.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z70ZR2TUQVztYwn-_1U--44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z70ZR2TUQVztYwn-_1U--39" target="z70ZR2TUQVztYwn-_1U--38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z70ZR2TUQVztYwn-_1U--49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="z70ZR2TUQVztYwn-_1U--39" target="z70ZR2TUQVztYwn-_1U--47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z70ZR2TUQVztYwn-_1U--39" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;审核&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="751.25" y="1200" width="92.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="z70ZR2TUQVztYwn-_1U--45" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 16px;&quot;&gt;提交搬楼费&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1080" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z70ZR2TUQVztYwn-_1U--46" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 16px;&quot;&gt;审核通过&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="682.5" y="1260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z70ZR2TUQVztYwn-_1U--47" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;一级状态：待签收&lt;br&gt;二级状态：搬楼费驳回&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="932.5" y="1210" width="187.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z70ZR2TUQVztYwn-_1U--48" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 16px;&quot;&gt;驳回&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="862.5" y="1240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z70ZR2TUQVztYwn-_1U--50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1.002;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z70ZR2TUQVztYwn-_1U--47" target="z70ZR2TUQVztYwn-_1U--45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
