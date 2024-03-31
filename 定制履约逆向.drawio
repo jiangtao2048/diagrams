@@ -1,26 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2024-03-31T06:55:03.003Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="guUULnpCD1ySRfSrcS2Z" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-31T06:58:18.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="0jaV-ZjfBo1SWMM-QJjb" version="24.2.1" type="github">
   <diagram name="第 1 页" id="7E3xg20voF36uwwBsJ15">
     <mxGraphModel dx="835" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Q0NwrmyrNiEeJ_oUR217-1" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="100" width="740" height="480" as="geometry" />
+          <mxGeometry x="280" y="100" width="740" height="485" as="geometry" />
         </mxCell>
         <mxCell id="Q0NwrmyrNiEeJ_oUR217-2" value="用工平台" style="swimlane;startSize=20;" vertex="1" parent="Q0NwrmyrNiEeJ_oUR217-1">
-          <mxGeometry x="20" width="120" height="480" as="geometry" />
+          <mxGeometry x="20" width="120" height="485" as="geometry" />
         </mxCell>
         <mxCell id="Q0NwrmyrNiEeJ_oUR217-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;提报反补信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q0NwrmyrNiEeJ_oUR217-2">
           <mxGeometry x="10" y="50" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q0NwrmyrNiEeJ_oUR217-3" value="调度中轴" style="swimlane;startSize=20;" vertex="1" parent="Q0NwrmyrNiEeJ_oUR217-1">
-          <mxGeometry x="140" width="120" height="480" as="geometry" />
+          <mxGeometry x="140" width="120" height="485" as="geometry" />
         </mxCell>
         <mxCell id="Q0NwrmyrNiEeJ_oUR217-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;数据校验&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q0NwrmyrNiEeJ_oUR217-3">
           <mxGeometry x="10" y="50" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q0NwrmyrNiEeJ_oUR217-4" value="供应链订单管理" style="swimlane;startSize=20;" vertex="1" parent="Q0NwrmyrNiEeJ_oUR217-1">
-          <mxGeometry x="260" width="120" height="480" as="geometry" />
+          <mxGeometry x="260" width="120" height="485" as="geometry" />
         </mxCell>
         <mxCell id="Q0NwrmyrNiEeJ_oUR217-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;创建补货单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q0NwrmyrNiEeJ_oUR217-4">
           <mxGeometry x="10" y="50" width="100" height="40" as="geometry" />
@@ -38,13 +38,13 @@
           <mxGeometry x="20" y="260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q0NwrmyrNiEeJ_oUR217-5" value="供应链采购管理" style="swimlane;startSize=20;" vertex="1" parent="Q0NwrmyrNiEeJ_oUR217-1">
-          <mxGeometry x="380" width="120" height="480" as="geometry" />
+          <mxGeometry x="380" width="120" height="485" as="geometry" />
         </mxCell>
         <mxCell id="Q0NwrmyrNiEeJ_oUR217-23" value="反补工厂是否可以生产" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Q0NwrmyrNiEeJ_oUR217-5">
           <mxGeometry x="20" y="110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q0NwrmyrNiEeJ_oUR217-6" value="供应链vss" style="swimlane;startSize=20;" vertex="1" parent="Q0NwrmyrNiEeJ_oUR217-1">
-          <mxGeometry x="500" width="120" height="480" as="geometry" />
+          <mxGeometry x="500" width="120" height="485" as="geometry" />
         </mxCell>
         <mxCell id="Q0NwrmyrNiEeJ_oUR217-25" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;接单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q0NwrmyrNiEeJ_oUR217-6">
           <mxGeometry x="10" y="70" width="100" height="40" as="geometry" />
@@ -53,25 +53,31 @@
           <mxGeometry x="10" y="50" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q0NwrmyrNiEeJ_oUR217-27" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;报价（材料费物流费）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q0NwrmyrNiEeJ_oUR217-6">
-          <mxGeometry x="10" y="160" width="100" height="40" as="geometry" />
+          <mxGeometry x="10" y="150" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q0NwrmyrNiEeJ_oUR217-28" value="拆单员-vss" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Q0NwrmyrNiEeJ_oUR217-6">
-          <mxGeometry x="10" y="140" width="100" height="20" as="geometry" />
+          <mxGeometry x="10" y="130" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q0NwrmyrNiEeJ_oUR217-30" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;备货&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q0NwrmyrNiEeJ_oUR217-6">
-          <mxGeometry x="10" y="290" width="100" height="40" as="geometry" />
+          <mxGeometry x="10" y="232.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q0NwrmyrNiEeJ_oUR217-31" value="拆单员-vss" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Q0NwrmyrNiEeJ_oUR217-6">
-          <mxGeometry x="10" y="270" width="100" height="20" as="geometry" />
+          <mxGeometry x="10" y="212.5" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q0NwrmyrNiEeJ_oUR217-32" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;发货&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;添加搬楼费&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q0NwrmyrNiEeJ_oUR217-6">
-          <mxGeometry x="10" y="400" width="100" height="40" as="geometry" />
+          <mxGeometry x="10" y="320" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q0NwrmyrNiEeJ_oUR217-33" value="拆单员-vss" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Q0NwrmyrNiEeJ_oUR217-6">
-          <mxGeometry x="10" y="380" width="100" height="20" as="geometry" />
+          <mxGeometry x="10" y="300" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0NwrmyrNiEeJ_oUR217-40" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;送达&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q0NwrmyrNiEeJ_oUR217-6">
+          <mxGeometry x="10" y="410" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0NwrmyrNiEeJ_oUR217-41" value="拆单员-vss" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Q0NwrmyrNiEeJ_oUR217-6">
+          <mxGeometry x="10" y="390" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q0NwrmyrNiEeJ_oUR217-19" value="定制工厂" style="swimlane;startSize=20;" vertex="1" parent="Q0NwrmyrNiEeJ_oUR217-1">
-          <mxGeometry x="620" width="120" height="480" as="geometry" />
+          <mxGeometry x="620" width="120" height="485" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
