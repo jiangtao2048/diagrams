@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T10:26:17.939Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="tgDxZ3Eb8A1FX_vZvi0C" version="24.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-09T10:39:18.652Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="-Zi9SLDuv0gFSTz5YE8h" version="24.2.2" type="github" pages="2">
   <diagram name="改补单查询逻辑" id="lAMv0lz2d4pBa4BIhlsa">
     <mxGraphModel dx="2560" dy="961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1446,16 +1446,16 @@
         <mxCell id="C2nDmAsvRDlPvyiLAWs2-220" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;sdm&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1846" y="2920" width="105" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZjtcDA5lu75UMY3mJkWk-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;欧派品改补单信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="2720" y="1145" width="30" height="150" as="geometry" />
+        <mxCell id="ZjtcDA5lu75UMY3mJkWk-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;欧派品改补主单&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="2720" y="1130" width="30" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="ZjtcDA5lu75UMY3mJkWk-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;索菲亚改补信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="2720" y="1315" width="30" height="150" as="geometry" />
+        <mxCell id="ZjtcDA5lu75UMY3mJkWk-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;索菲亚改补主单&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="2720" y="1315" width="30" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="ZjtcDA5lu75UMY3mJkWk-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;供应链oms改补信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="2896" y="1145" width="30" height="320" as="geometry" />
+        <mxCell id="ZjtcDA5lu75UMY3mJkWk-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;oms改补主单信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="2896" y="1302.5" width="30" height="167.5" as="geometry" />
         </mxCell>
-        <mxCell id="ZjtcDA5lu75UMY3mJkWk-4" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;三方改补单与oms改补单关联映射&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="ZjtcDA5lu75UMY3mJkWk-4" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;三方改补主单映射&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="2800" y="1182.5" width="50" height="245" as="geometry" />
         </mxCell>
         <mxCell id="ZjtcDA5lu75UMY3mJkWk-5" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1465,7 +1465,7 @@
           <mxGeometry x="2760" y="1362.5" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ZjtcDA5lu75UMY3mJkWk-7" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2860" y="1295" width="30" height="20" as="geometry" />
+          <mxGeometry x="2860" y="1362.5" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pUXi6EL2Ko57mfG_cJNE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pUXi6EL2Ko57mfG_cJNE-1" target="pUXi6EL2Ko57mfG_cJNE-3">
           <mxGeometry relative="1" as="geometry" />
@@ -1585,6 +1585,60 @@
         </mxCell>
         <mxCell id="pUXi6EL2Ko57mfG_cJNE-48" value="单据类" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="492" y="2380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pUXi6EL2Ko57mfG_cJNE-49" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;欧派品改补单信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2720" y="1522.5" width="30" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="pUXi6EL2Ko57mfG_cJNE-50" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;索菲亚改补信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2720" y="1692.5" width="30" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="pUXi6EL2Ko57mfG_cJNE-51" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;供应链oms改补信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2896" y="1522.5" width="30" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="pUXi6EL2Ko57mfG_cJNE-52" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;三方改补单与oms改补单关联映射&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2800" y="1560" width="50" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="pUXi6EL2Ko57mfG_cJNE-53" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2760" y="1602.5" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="pUXi6EL2Ko57mfG_cJNE-54" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2760" y="1740" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="pUXi6EL2Ko57mfG_cJNE-55" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2860" y="1672.5" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pUXi6EL2Ko57mfG_cJNE-56" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;sdm采购单信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2895" y="1135" width="30" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="pUXi6EL2Ko57mfG_cJNE-57" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2860" y="1227.5" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pUXi6EL2Ko57mfG_cJNE-58" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;欧派品改补子单&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="3030" y="1140" width="30" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="pUXi6EL2Ko57mfG_cJNE-59" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;索菲亚改补子单&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="3030" y="1325" width="30" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="pUXi6EL2Ko57mfG_cJNE-60" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;oms改补子单信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="3206" y="1312.5" width="30" height="167.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pUXi6EL2Ko57mfG_cJNE-61" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;三方改补子单映射&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="3110" y="1192.5" width="50" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="pUXi6EL2Ko57mfG_cJNE-62" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3070" y="1235" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="pUXi6EL2Ko57mfG_cJNE-63" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3070" y="1372.5" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="pUXi6EL2Ko57mfG_cJNE-64" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3170" y="1372.5" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pUXi6EL2Ko57mfG_cJNE-65" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;sdm采购单信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="3205" y="1145" width="30" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="pUXi6EL2Ko57mfG_cJNE-66" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3170" y="1237.5" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
